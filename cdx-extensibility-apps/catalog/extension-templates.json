@@ -53,7 +53,7 @@
         "type": "widget",
         "source": {
           "type": "npm",
-          "package": "@cdx-extensions/extension-template-web-investment-portfolio",
+          "package": "@cdx-di-template/webtemplate-agent-test-widget",
           "version": "0.0.1"
         },
         "minGeneratorVersion": "2.0.0"
