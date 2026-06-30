@@ -54,7 +54,7 @@
         "source": {
           "type": "npm",
           "package": "@cdx-di-template/webtemplate-agent-test-widget",
-          "version": "0.0.1"
+          "version": "0.0.5"
         },
         "minGeneratorVersion": "2.0.0"
       },
