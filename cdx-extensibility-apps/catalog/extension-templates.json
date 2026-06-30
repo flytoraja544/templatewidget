@@ -70,19 +70,6 @@
           "version": "0.0.2"
         },
         "minGeneratorVersion": "2.0.0"
-      },
-      {
-        "id": "qa-widget1",
-        "name": "QA Widget1",
-        "description": "QA and SDK integration test widget with HTTP client, API response, and platform config cards.",
-        "category": "dev",
-        "type": "aspect",
-        "source": {
-          "type": "npm",
-          "package": "@cdx-di-template/webtemplate-qa-widget",
-          "version": "0.0.2"
-        },
-        "minGeneratorVersion": "2.0.0"
       }
     ]
   }
